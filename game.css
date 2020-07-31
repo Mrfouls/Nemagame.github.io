@@ -1,0 +1,16 @@
+table{
+    border: 5px inset green;
+    cursor:pointer;
+    padding:2px;
+    border-radius: 5px;
+    -webkit-box-shadow: 33px 15px 12px 10px rgba(189,73,189,1);
+    -moz-box-shadow: 33px 15px 12px 10px rgba(189,73,189,1);
+    box-shadow: 33px 15px 12px 10px rgba(189,73,189,1);
+}
+td{
+    border:2px groove green;
+    padding:2px;
+    width:40px;
+    height:40px;
+    text-align:center;
+}
